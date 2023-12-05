@@ -1,0 +1,38 @@
+1. Thanh toán bằng VNPAY: 
+Ngân hàng: NCB
+Số thẻ: 9704198526191432198
+Tên chủ thẻ:NGUYEN VAN A
+Ngày phát hành:07/15
+Mật khẩu OTP:123456
+2. Thanh toán bằng MOMO:
+NGUYEN VAN A	
+9704 0000 0000 0018	
+03/07	
+OTP: OTP
+//vnpay
+?vnp_Amount=36960000&vnp_BankCode=NCB
+&vnp_BankTranNo=VNP14184310
+&vnp_CardType=ATM
+&vnp_OrderInfo=Thanh+toán+đơn+hàng+đặt+tại+web
+&vnp_PayDate=20231116233933
+&vnp_ResponseCode=00
+&vnp_TmnCode=5HAU3ROW
+&vnp_TransactionNo=14184310
+&vnp_TransactionStatus=00
+&vnp_TxnRef=775
+&vnp_SecureHash=1ffeb35f3c3ebf9de0f801550fe77b956afbb4c3d1aaac2c0a614606a455c8cb6838d3bc403e93e2ea6c0d66fbe43670ee9f69ec0c16dfd43c899e595bc432d0
+
+
+//MOMO
+partnerCode=MOMOBKUN20180529
+&orderId=1700727105
+&requestId=1700727105
+&amount=184800
+&orderInfo=Thanh+toán+qua+ATM
+&orderType=momo_wallet
+&transId=3134873445&resultCode=0
+&message=Successful.
+&payType=napas
+&responseTime=1700727175332&extraData=
+&signature=4064d6a1aa6ab0adb453e70f3fb8b90fc6090e03c1dc1cf97064be1dc1254d42
+&paymentOption=momo
